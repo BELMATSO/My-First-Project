@@ -45,26 +45,26 @@
 # print(result)
 
 
-
-
-year = int(input("ENTER YEAR: "))
-if year % 4 != 0:
-    print("IT IS  NOT A LEAP YEAR!")
-else:
-    print("IT'S  A LEAP YEAR !")
-    if year % 100 != 0:
-        print("IT'S  A LEAP YEAR !")
-    else:
-        print("IT'S  NOT A LEAP YEAR!")
-        if year % 400 == 0:
-            print("IT IS A LEAP YEAR!")
-        else:
-            print("IT IS NOT A LEAP YEAR!")
-
-
-
-
-
+#
+#
+# year = int(input("ENTER YEAR: "))
+# if year % 4 != 0:
+#     print("IT IS  NOT A LEAP YEAR!")
+# else:
+#     print("IT'S  A LEAP YEAR !")
+#     if year % 100 != 0:
+#         print("IT'S  A LEAP YEAR !")
+#     else:
+#         print("IT'S  NOT A LEAP YEAR!")
+#         if year % 400 == 0:
+#             print("IT IS A LEAP YEAR!")
+#         else:
+#             print("IT IS NOT A LEAP YEAR!")
+#
+#
+#
+#
+#
 
 
 

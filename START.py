@@ -32,8 +32,8 @@
 # DATA TYPES
 # LISTS []
 # fruits = ['mango', 'apple', 'grape']
-
-
+#
+#
 # len(fruits)
 # fruits[1]
 # fruits.pop()
